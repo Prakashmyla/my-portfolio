@@ -2,38 +2,29 @@ export default function PortfolioWebsite() {
   const projects = [
     {
       title: "AlphaSync Bio",
-      subtitle: "EEG-based cognitive fatigue monitoring",
+      subtitle: "EEG-based vigilance and fatigue biomarker analysis",
       bullets: [
-        "MATLAB signal processing pipeline for EEG filtering and feature extraction",
-        "Focus on real-time workload and vigilance estimation",
-        "Built for neuroergonomic and safety-critical applications",
-      ],
-    },
-    {
-      title: "Acoustic Heart Rate Detection",
-      subtitle: "ESP32 + INMP441 edge inference system",
-      bullets: [
-        "Real-time heartbeat sensing using I2S microphone input",
-        "Embedded logistic regression classification with >92% reported accuracy",
-        "On-device processing with live OLED feedback",
-      ],
-    },
-    {
-      title: "Wearable Respiratory Monitor",
-      subtitle: "Chest movement and skin micro-climate sensing",
-      bullets: [
-        "Sensor fusion using MPU6050 and AHT10",
-        "Breathing extraction with low-pass filtered motion magnitude",
-        "LoRa-enabled wearable monitoring pipeline",
+        "EEG preprocessing and feature extraction pipeline using MATLAB/EEGLAB",
+        "Estimated vigilance using spectral EEG features aligned with PERCLOS labels",
+        "Built for neuroergonomic and safety-critical monitoring applications",
       ],
     },
     {
       title: "Neural Switching System",
       subtitle: "16-channel stimulation and recording interface",
       bullets: [
-        "High-voltage switching with relay/PhotoMOS architecture",
-        "MCU-controlled sequencing for safe routing",
-        "Protection logic designed to isolate amplifier and stimulator paths",
+        "16-channel relay-based routing architecture for stimulation and recording",
+        "MCU-controlled sequencing for safe channel selection and timing",
+        "Protection logic to isolate amplifier paths during stimulation",
+      ],
+    },
+    {
+      title: "Neonatal Chest Motion and Skin Temperature Monitoring",
+      subtitle: "Chest movement and skin micro-climate sensing using MPU6050 and AHT10",
+      bullets: [
+        "Sensor acquisition using MPU6050 motion data and AHT10 temperature/humidity data",
+        "Timestamped physiological and motion datasets for rest and movement conditions",
+        "Embedded data logging pipeline using Arduino MKR WAN 1310",
       ],
     },
     {
@@ -43,6 +34,15 @@ export default function PortfolioWebsite() {
         "Pipeline from sensing to injury severity inference and reporting",
         "Human-centered safety operations and post-crash guidance",
         "Designed for resilient multi-device failover",
+      ],
+    },
+    {
+      title: "Acoustic Heart Rate Detection",
+      subtitle: "ESP32 + INMP441 edge inference system",
+      bullets: [
+        "Real-time heartbeat sensing using I2S microphone input",
+        "Embedded logistic regression classification with >92% reported accuracy",
+        "On-device processing with live OLED feedback",
       ],
     },
   ];
@@ -55,8 +55,9 @@ export default function PortfolioWebsite() {
     "Python",
     "Biomedical Signal Processing",
     "EEG / Heartbeat / Respiration",
+    "Neural Interfaces",
+    "EEGLAB / MNE",
     "Circuit Design",
-    "Multisim",
     "Edge AI",
   ];
 
@@ -66,7 +67,7 @@ export default function PortfolioWebsite() {
         <div className="grid gap-10 md:grid-cols-[1.4fr_0.9fr] md:items-center">
           <div>
             <p className="mb-3 text-sm uppercase tracking-[0.3em] text-slate-400">
-              Embedded Systems • Biomedical Signal Processing • Edge AI
+              Embedded Systems • Biomedical Signal Processing • Neurotechnology
             </p>
 
             <h1 className="text-4xl font-semibold leading-tight md:text-6xl">
@@ -74,17 +75,17 @@ export default function PortfolioWebsite() {
             </h1>
 
             <p className="mt-5 max-w-2xl text-base leading-7 text-slate-300 md:text-lg">
-              I build real-time sensing systems that combine embedded hardware,
-              signal processing, and machine learning for biomedical and
-              safety-critical applications.
+              I build embedded sensing and signal-processing systems for
+              biomedical, neural, and safety-critical applications.
             </p>
 
             <div className="mt-8 flex flex-wrap gap-3">
               <a
-                href="mailto:gmyla@uab.edu"
-                className="rounded-2xl bg-white px-5 py-3 text-sm font-medium text-slate-950 shadow-lg shadow-black/20 transition hover:-translate-y-0.5"
+                href="/Gnana_Prakash_Resume.pdf"
+                download
+                className="rounded-2xl border border-green-500 px-5 py-3 text-sm font-medium text-green-400 transition hover:bg-green-500 hover:text-black"
               >
-                Contact
+                Resume
               </a>
 
               <a
@@ -106,11 +107,10 @@ export default function PortfolioWebsite() {
               </a>
 
               <a
-                href="/Gnana_Prakash_Resume.pdf"
-                download
-                className="rounded-2xl border border-green-500 px-5 py-3 text-sm font-medium text-green-400 transition hover:bg-green-500 hover:text-black"
+                href="mailto:gmyla@uab.edu"
+                className="rounded-2xl bg-white px-5 py-3 text-sm font-medium text-slate-950 shadow-lg shadow-black/20 transition hover:-translate-y-0.5"
               >
-                Resume
+                Contact
               </a>
             </div>
           </div>
@@ -135,12 +135,11 @@ export default function PortfolioWebsite() {
         <div className="rounded-3xl border border-slate-800 bg-slate-900/50 p-6 md:p-8">
           <h2 className="text-2xl font-semibold md:text-3xl">About</h2>
           <p className="mt-4 max-w-4xl leading-7 text-slate-300">
-            I am an Electrical and Computer Engineering graduate student focused
-            on embedded systems, neural interfaces, physiological sensing, and
-            real-time analysis on constrained devices. My work spans EEG-based
-            fatigue estimation, acoustic heartbeat classification, wearable
-            respiratory monitoring, and resilient system design for safety and
-            healthcare applications.
+            I am an Electrical and Computer Engineering graduate focused on
+            embedded systems, neural interfaces, physiological sensing, and
+            biomedical signal processing. My work spans EEG-based vigilance
+            estimation, neural stimulation/recording switching, wearable
+            respiratory monitoring, and safety-focused sensing systems.
           </p>
         </div>
       </section>
@@ -189,14 +188,26 @@ export default function PortfolioWebsite() {
             <div className="mt-5 space-y-5 text-sm leading-6 text-slate-300">
               <div>
                 <p className="font-medium text-slate-100">
-                  Graduate Research Assistant
+                  Volunteer Researcher
                 </p>
                 <p className="text-slate-400">
-                  University of Alabama at Birmingham
+                  Neural Signal Processing and Modeling Lab, UAB
                 </p>
                 <p className="mt-2">
-                  Designed and implemented neural switching architectures,
-                  embedded control logic, and signal-processing pipelines for
+                  Working on EEG vigilance estimation, PERCLOS-aligned
+                  biomarker analysis, spectral feature extraction, and
+                  reliability-aware signal processing.
+                </p>
+              </div>
+
+              <div>
+                <p className="font-medium text-slate-100">
+                  Volunteer Graduate Researcher
+                </p>
+                <p className="text-slate-400">ANRY Lab, UAB</p>
+                <p className="mt-2">
+                  Designed neural stimulation/recording switching architecture,
+                  embedded control logic, and timing-safe channel routing for
                   research applications.
                 </p>
               </div>
@@ -204,11 +215,11 @@ export default function PortfolioWebsite() {
               <div>
                 <p className="font-medium text-slate-100">Teaching Assistant</p>
                 <p className="text-slate-400">
-                  Embedded systems instruction support
+                  Department of Electrical and Computer Engineering, UAB
                 </p>
                 <p className="mt-2">
-                  Supported student learning in hardware debugging, schematic
-                  capture, and practical embedded workflows.
+                  Supported undergraduate engineering coursework, lab sessions,
+                  debugging, and technical guidance.
                 </p>
               </div>
             </div>
