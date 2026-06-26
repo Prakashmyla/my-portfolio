@@ -1,0 +1,1113 @@
+Temperature: 28.87 °C
+Humidity: 73.34 %
+---------------------------
+Temperature: 28.91 °C
+Humidity: 73.38 %
+---------------------------
+Temperature: 28.99 °C
+Humidity: 73.54 %
+---------------------------
+Temperature: 29.09 °C
+Humidity: 73.68 %
+---------------------------
+Temperature: 29.14 °C
+Humidity: 73.39 %
+---------------------------
+Temperature: 29.21 °C
+Humidity: 73.44 %
+---------------------------
+Temperature: 29.26 °C
+Humidity: 73.78 %
+---------------------------
+Temperature: 29.32 °C
+Humidity: 74.21 %
+---------------------------
+Temperature: 29.40 °C
+Humidity: 74.74 %
+---------------------------
+Temperature: 29.44 °C
+Humidity: 75.09 %
+---------------------------
+Temperature: 29.50 °C
+Humidity: 74.65 %
+---------------------------
+Temperature: 29.55 °C
+Humidity: 73.97 %
+---------------------------
+Temperature: 29.60 °C
+Humidity: 73.26 %
+---------------------------
+Temperature: 29.61 °C
+Humidity: 72.56 %
+---------------------------
+Temperature: 29.64 °C
+Humidity: 71.91 %
+---------------------------
+Temperature: 29.65 °C
+Humidity: 71.38 %
+---------------------------
+Temperature: 29.71 °C
+Humidity: 71.06 %
+---------------------------
+Temperature: 29.76 °C
+Humidity: 70.88 %
+---------------------------
+Temperature: 29.79 °C
+Humidity: 71.00 %
+---------------------------
+Temperature: 29.82 °C
+Humidity: 71.05 %
+---------------------------
+Temperature: 29.86 °C
+Humidity: 71.08 %
+---------------------------
+Temperature: 29.89 °C
+Humidity: 71.12 %
+---------------------------
+Temperature: 29.95 °C
+Humidity: 71.18 %
+---------------------------
+Temperature: 29.98 °C
+Humidity: 71.56 %
+---------------------------
+Temperature: 30.05 °C
+Humidity: 71.55 %
+---------------------------
+Temperature: 30.09 °C
+Humidity: 70.99 %
+---------------------------
+Temperature: 30.13 °C
+Humidity: 71.30 %
+---------------------------
+Temperature: 30.18 °C
+Humidity: 71.47 %
+---------------------------
+Temperature: 30.24 °C
+Humidity: 71.88 %
+---------------------------
+Temperature: 30.26 °C
+Humidity: 71.91 %
+---------------------------
+Temperature: 30.29 °C
+Humidity: 72.08 %
+---------------------------
+Temperature: 30.34 °C
+Humidity: 71.97 %
+---------------------------
+Temperature: 30.40 °C
+Humidity: 72.11 %
+---------------------------
+Temperature: 30.44 °C
+Humidity: 71.77 %
+---------------------------
+Temperature: 30.46 °C
+Humidity: 71.05 %
+---------------------------
+Temperature: 30.51 °C
+Humidity: 70.80 %
+---------------------------
+Temperature: 30.54 °C
+Humidity: 71.28 %
+---------------------------
+Temperature: 30.58 °C
+Humidity: 71.21 %
+---------------------------
+Temperature: 30.64 °C
+Humidity: 71.22 %
+---------------------------
+Temperature: 30.66 °C
+Humidity: 71.21 %
+---------------------------
+Temperature: 30.70 °C
+Humidity: 70.87 %
+---------------------------
+Temperature: 30.74 °C
+Humidity: 71.09 %
+---------------------------
+Temperature: 30.77 °C
+Humidity: 71.76 %
+---------------------------
+Temperature: 30.80 °C
+Humidity: 72.25 %
+---------------------------
+Temperature: 30.85 °C
+Humidity: 72.56 %
+---------------------------
+Temperature: 30.87 °C
+Humidity: 73.01 %
+---------------------------
+Temperature: 30.92 °C
+Humidity: 73.50 %
+---------------------------
+Temperature: 30.96 °C
+Humidity: 73.96 %
+---------------------------
+Temperature: 30.99 °C
+Humidity: 74.30 %
+---------------------------
+Temperature: 31.03 °C
+Humidity: 74.69 %
+---------------------------
+Temperature: 31.03 °C
+Humidity: 74.16 %
+---------------------------
+Temperature: 31.07 °C
+Humidity: 74.24 %
+---------------------------
+Temperature: 31.10 °C
+Humidity: 74.52 %
+---------------------------
+Temperature: 31.16 °C
+Humidity: 74.74 %
+---------------------------
+Temperature: 31.18 °C
+Humidity: 74.15 %
+---------------------------
+Temperature: 31.17 °C
+Humidity: 73.15 %
+---------------------------
+Temperature: 31.22 °C
+Humidity: 73.23 %
+---------------------------
+Temperature: 31.25 °C
+Humidity: 73.35 %
+---------------------------
+Temperature: 31.27 °C
+Humidity: 73.51 %
+---------------------------
+Temperature: 31.31 °C
+Humidity: 73.79 %
+---------------------------
+Temperature: 31.33 °C
+Humidity: 74.12 %
+---------------------------
+Temperature: 31.36 °C
+Humidity: 74.45 %
+---------------------------
+Temperature: 31.38 °C
+Humidity: 74.46 %
+---------------------------
+Temperature: 31.41 °C
+Humidity: 73.80 %
+---------------------------
+Temperature: 31.43 °C
+Humidity: 73.45 %
+---------------------------
+Temperature: 31.48 °C
+Humidity: 73.64 %
+---------------------------
+Temperature: 31.53 °C
+Humidity: 73.99 %
+---------------------------
+Temperature: 31.54 °C
+Humidity: 74.53 %
+---------------------------
+Temperature: 31.58 °C
+Humidity: 75.05 %
+---------------------------
+Temperature: 31.61 °C
+Humidity: 75.57 %
+---------------------------
+Temperature: 31.65 °C
+Humidity: 76.07 %
+---------------------------
+Temperature: 31.66 °C
+Humidity: 76.43 %
+---------------------------
+Temperature: 31.67 °C
+Humidity: 76.23 %
+---------------------------
+Temperature: 31.69 °C
+Humidity: 75.32 %
+---------------------------
+Temperature: 31.69 °C
+Humidity: 73.84 %
+---------------------------
+Temperature: 31.66 °C
+Humidity: 72.10 %
+---------------------------
+Temperature: 31.62 °C
+Humidity: 70.37 %
+---------------------------
+Temperature: 31.59 °C
+Humidity: 69.62 %
+---------------------------
+Temperature: 31.63 °C
+Humidity: 68.73 %
+---------------------------
+Temperature: 31.60 °C
+Humidity: 67.77 %
+---------------------------
+Temperature: 31.63 °C
+Humidity: 67.30 %
+---------------------------
+Temperature: 31.67 °C
+Humidity: 67.32 %
+---------------------------
+Temperature: 31.71 °C
+Humidity: 67.07 %
+---------------------------
+Temperature: 31.73 °C
+Humidity: 67.64 %
+---------------------------
+Temperature: 31.77 °C
+Humidity: 68.43 %
+---------------------------
+Temperature: 31.78 °C
+Humidity: 69.37 %
+---------------------------
+Temperature: 31.84 °C
+Humidity: 70.22 %
+---------------------------
+Temperature: 31.88 °C
+Humidity: 71.13 %
+---------------------------
+Temperature: 31.89 °C
+Humidity: 71.87 %
+---------------------------
+Temperature: 31.89 °C
+Humidity: 72.17 %
+---------------------------
+Temperature: 31.93 °C
+Humidity: 72.31 %
+---------------------------
+Temperature: 31.96 °C
+Humidity: 72.35 %
+---------------------------
+Temperature: 31.96 °C
+Humidity: 72.43 %
+---------------------------
+Temperature: 32.00 °C
+Humidity: 72.73 %
+---------------------------
+Temperature: 32.01 °C
+Humidity: 72.93 %
+---------------------------
+Temperature: 32.04 °C
+Humidity: 73.21 %
+---------------------------
+Temperature: 32.05 °C
+Humidity: 73.24 %
+---------------------------
+Temperature: 32.08 °C
+Humidity: 72.82 %
+---------------------------
+Temperature: 32.09 °C
+Humidity: 72.36 %
+---------------------------
+Temperature: 32.12 °C
+Humidity: 72.11 %
+---------------------------
+Temperature: 32.13 °C
+Humidity: 72.11 %
+---------------------------
+Temperature: 32.15 °C
+Humidity: 71.83 %
+---------------------------
+Temperature: 32.16 °C
+Humidity: 71.82 %
+---------------------------
+Temperature: 32.17 °C
+Humidity: 72.01 %
+---------------------------
+Temperature: 32.19 °C
+Humidity: 72.19 %
+---------------------------
+Temperature: 32.22 °C
+Humidity: 72.43 %
+---------------------------
+Temperature: 32.24 °C
+Humidity: 72.76 %
+---------------------------
+Temperature: 32.25 °C
+Humidity: 73.16 %
+---------------------------
+Temperature: 32.30 °C
+Humidity: 73.65 %
+---------------------------
+Temperature: 32.31 °C
+Humidity: 74.16 %
+---------------------------
+Temperature: 32.33 °C
+Humidity: 74.43 %
+---------------------------
+Temperature: 32.38 °C
+Humidity: 74.68 %
+---------------------------
+Temperature: 32.39 °C
+Humidity: 74.99 %
+---------------------------
+Temperature: 32.42 °C
+Humidity: 74.92 %
+---------------------------
+Temperature: 32.40 °C
+Humidity: 74.85 %
+---------------------------
+Temperature: 32.43 °C
+Humidity: 73.95 %
+---------------------------
+Temperature: 32.45 °C
+Humidity: 73.52 %
+---------------------------
+Temperature: 32.48 °C
+Humidity: 73.67 %
+---------------------------
+Temperature: 32.49 °C
+Humidity: 74.07 %
+---------------------------
+Temperature: 32.50 °C
+Humidity: 73.11 %
+---------------------------
+Temperature: 32.49 °C
+Humidity: 72.16 %
+---------------------------
+Temperature: 32.50 °C
+Humidity: 71.41 %
+---------------------------
+Temperature: 32.54 °C
+Humidity: 71.33 %
+---------------------------
+Temperature: 32.57 °C
+Humidity: 71.80 %
+---------------------------
+Temperature: 32.58 °C
+Humidity: 72.15 %
+---------------------------
+Temperature: 32.54 °C
+Humidity: 70.61 %
+---------------------------
+Temperature: 32.51 °C
+Humidity: 69.74 %
+---------------------------
+Temperature: 32.56 °C
+Humidity: 69.88 %
+---------------------------
+Temperature: 32.57 °C
+Humidity: 70.29 %
+---------------------------
+Temperature: 32.60 °C
+Humidity: 71.02 %
+---------------------------
+Temperature: 32.62 °C
+Humidity: 71.68 %
+---------------------------
+Temperature: 32.65 °C
+Humidity: 72.34 %
+---------------------------
+Temperature: 32.65 °C
+Humidity: 72.69 %
+---------------------------
+Temperature: 32.66 °C
+Humidity: 72.86 %
+---------------------------
+Temperature: 32.63 °C
+Humidity: 71.38 %
+---------------------------
+Temperature: 32.60 °C
+Humidity: 70.21 %
+---------------------------
+Temperature: 32.60 °C
+Humidity: 69.91 %
+---------------------------
+Temperature: 32.64 °C
+Humidity: 69.26 %
+---------------------------
+Temperature: 32.61 °C
+Humidity: 67.97 %
+---------------------------
+Temperature: 32.53 °C
+Humidity: 66.28 %
+---------------------------
+Temperature: 32.43 °C
+Humidity: 64.83 %
+---------------------------
+Temperature: 32.44 °C
+Humidity: 64.33 %
+---------------------------
+Temperature: 32.46 °C
+Humidity: 64.82 %
+---------------------------
+Temperature: 32.49 °C
+Humidity: 65.69 %
+---------------------------
+Temperature: 32.52 °C
+Humidity: 66.40 %
+---------------------------
+Temperature: 32.55 °C
+Humidity: 66.95 %
+---------------------------
+Temperature: 32.57 °C
+Humidity: 67.69 %
+---------------------------
+Temperature: 32.57 °C
+Humidity: 67.87 %
+---------------------------
+Temperature: 32.53 °C
+Humidity: 66.47 %
+---------------------------
+Temperature: 32.42 °C
+Humidity: 65.07 %
+---------------------------
+Temperature: 32.42 °C
+Humidity: 64.33 %
+---------------------------
+Temperature: 32.46 °C
+Humidity: 64.69 %
+---------------------------
+Temperature: 32.50 °C
+Humidity: 65.42 %
+---------------------------
+Temperature: 32.47 °C
+Humidity: 64.85 %
+---------------------------
+Temperature: 32.41 °C
+Humidity: 63.50 %
+---------------------------
+Temperature: 32.31 °C
+Humidity: 62.31 %
+---------------------------
+Temperature: 32.18 °C
+Humidity: 61.14 %
+---------------------------
+Temperature: 32.10 °C
+Humidity: 60.24 %
+---------------------------
+Temperature: 32.09 °C
+Humidity: 59.60 %
+---------------------------
+Temperature: 32.09 °C
+Humidity: 59.19 %
+---------------------------
+Temperature: 32.12 °C
+Humidity: 58.84 %
+---------------------------
+Temperature: 32.09 °C
+Humidity: 58.12 %
+---------------------------
+Temperature: 32.01 °C
+Humidity: 57.70 %
+---------------------------
+Temperature: 32.06 °C
+Humidity: 58.55 %
+---------------------------
+Temperature: 32.09 °C
+Humidity: 59.66 %
+---------------------------
+Temperature: 32.12 °C
+Humidity: 60.66 %
+---------------------------
+Temperature: 32.16 °C
+Humidity: 61.65 %
+---------------------------
+Temperature: 32.20 °C
+Humidity: 62.74 %
+---------------------------
+Temperature: 32.24 °C
+Humidity: 63.83 %
+---------------------------
+Temperature: 32.26 °C
+Humidity: 64.70 %
+---------------------------
+Temperature: 32.31 °C
+Humidity: 65.85 %
+---------------------------
+Temperature: 32.34 °C
+Humidity: 66.68 %
+---------------------------
+Temperature: 32.36 °C
+Humidity: 67.55 %
+---------------------------
+Temperature: 32.42 °C
+Humidity: 68.46 %
+---------------------------
+Temperature: 32.40 °C
+Humidity: 68.50 %
+---------------------------
+Temperature: 32.41 °C
+Humidity: 67.27 %
+---------------------------
+Temperature: 32.33 °C
+Humidity: 65.75 %
+---------------------------
+Temperature: 32.30 °C
+Humidity: 65.10 %
+---------------------------
+Temperature: 32.31 °C
+Humidity: 64.08 %
+---------------------------
+Temperature: 32.30 °C
+Humidity: 63.74 %
+---------------------------
+Temperature: 32.35 °C
+Humidity: 64.09 %
+---------------------------
+Temperature: 32.36 °C
+Humidity: 64.06 %
+---------------------------
+Temperature: 32.38 °C
+Humidity: 64.79 %
+---------------------------
+Temperature: 32.41 °C
+Humidity: 65.50 %
+---------------------------
+Temperature: 32.42 °C
+Humidity: 65.55 %
+---------------------------
+Temperature: 32.38 °C
+Humidity: 64.40 %
+---------------------------
+Temperature: 32.37 °C
+Humidity: 63.47 %
+---------------------------
+Temperature: 32.39 °C
+Humidity: 63.74 %
+---------------------------
+Temperature: 32.41 °C
+Humidity: 64.00 %
+---------------------------
+Temperature: 32.42 °C
+Humidity: 63.85 %
+---------------------------
+Temperature: 32.44 °C
+Humidity: 63.52 %
+---------------------------
+Temperature: 32.43 °C
+Humidity: 62.63 %
+---------------------------
+Temperature: 32.38 °C
+Humidity: 61.53 %
+---------------------------
+Temperature: 32.36 °C
+Humidity: 61.38 %
+---------------------------
+Temperature: 32.39 °C
+Humidity: 62.04 %
+---------------------------
+Temperature: 32.42 °C
+Humidity: 63.11 %
+---------------------------
+Temperature: 32.44 °C
+Humidity: 64.08 %
+---------------------------
+Temperature: 32.49 °C
+Humidity: 64.62 %
+---------------------------
+Temperature: 32.51 °C
+Humidity: 64.99 %
+---------------------------
+Temperature: 32.52 °C
+Humidity: 65.74 %
+---------------------------
+Temperature: 32.56 °C
+Humidity: 66.21 %
+---------------------------
+Temperature: 32.58 °C
+Humidity: 66.80 %
+---------------------------
+Temperature: 32.62 °C
+Humidity: 67.47 %
+---------------------------
+Temperature: 32.62 °C
+Humidity: 68.22 %
+---------------------------
+Temperature: 32.66 °C
+Humidity: 68.68 %
+---------------------------
+Temperature: 32.67 °C
+Humidity: 68.66 %
+---------------------------
+Temperature: 32.64 °C
+Humidity: 67.40 %
+---------------------------
+Temperature: 32.58 °C
+Humidity: 65.94 %
+---------------------------
+Temperature: 32.54 °C
+Humidity: 64.76 %
+---------------------------
+Temperature: 32.56 °C
+Humidity: 64.39 %
+---------------------------
+Temperature: 32.55 °C
+Humidity: 63.73 %
+---------------------------
+Temperature: 32.58 °C
+Humidity: 63.71 %
+---------------------------
+Temperature: 32.58 °C
+Humidity: 63.39 %
+---------------------------
+Temperature: 32.63 °C
+Humidity: 63.82 %
+---------------------------
+Temperature: 32.64 °C
+Humidity: 64.10 %
+---------------------------
+Temperature: 32.66 °C
+Humidity: 64.25 %
+---------------------------
+Temperature: 32.68 °C
+Humidity: 65.17 %
+---------------------------
+Temperature: 32.71 °C
+Humidity: 66.22 %
+---------------------------
+Temperature: 32.73 °C
+Humidity: 67.26 %
+---------------------------
+Temperature: 32.78 °C
+Humidity: 68.05 %
+---------------------------
+Temperature: 32.78 °C
+Humidity: 68.05 %
+---------------------------
+Temperature: 32.82 °C
+Humidity: 68.67 %
+---------------------------
+Temperature: 32.83 °C
+Humidity: 69.16 %
+---------------------------
+Temperature: 32.85 °C
+Humidity: 69.61 %
+---------------------------
+Temperature: 32.82 °C
+Humidity: 68.27 %
+---------------------------
+Temperature: 32.70 °C
+Humidity: 66.60 %
+---------------------------
+Temperature: 32.64 °C
+Humidity: 65.35 %
+---------------------------
+Temperature: 32.57 °C
+Humidity: 64.25 %
+---------------------------
+Temperature: 32.53 °C
+Humidity: 63.11 %
+---------------------------
+Temperature: 32.46 °C
+Humidity: 62.28 %
+---------------------------
+Temperature: 32.44 °C
+Humidity: 61.41 %
+---------------------------
+Temperature: 32.39 °C
+Humidity: 60.49 %
+---------------------------
+Temperature: 32.27 °C
+Humidity: 59.54 %
+---------------------------
+Temperature: 32.18 °C
+Humidity: 58.62 %
+---------------------------
+Temperature: 32.03 °C
+Humidity: 57.92 %
+---------------------------
+Temperature: 31.90 °C
+Humidity: 57.33 %
+---------------------------
+Temperature: 31.81 °C
+Humidity: 56.76 %
+---------------------------
+Temperature: 31.69 °C
+Humidity: 56.21 %
+---------------------------
+Temperature: 31.56 °C
+Humidity: 55.91 %
+---------------------------
+Temperature: 31.43 °C
+Humidity: 55.57 %
+---------------------------
+Temperature: 31.33 °C
+Humidity: 55.23 %
+---------------------------
+Temperature: 31.29 °C
+Humidity: 55.14 %
+---------------------------
+Temperature: 31.28 °C
+Humidity: 55.15 %
+---------------------------
+Temperature: 31.25 °C
+Humidity: 54.98 %
+---------------------------
+Temperature: 31.23 °C
+Humidity: 54.86 %
+---------------------------
+Temperature: 31.23 °C
+Humidity: 54.99 %
+---------------------------
+Temperature: 31.20 °C
+Humidity: 54.87 %
+---------------------------
+Temperature: 31.17 °C
+Humidity: 54.75 %
+---------------------------
+Temperature: 31.10 °C
+Humidity: 54.54 %
+---------------------------
+Temperature: 31.04 °C
+Humidity: 54.44 %
+---------------------------
+Temperature: 31.00 °C
+Humidity: 54.41 %
+---------------------------
+Temperature: 31.01 °C
+Humidity: 54.55 %
+---------------------------
+Temperature: 31.01 °C
+Humidity: 54.55 %
+---------------------------
+Temperature: 30.97 °C
+Humidity: 54.40 %
+---------------------------
+Temperature: 30.95 °C
+Humidity: 54.44 %
+---------------------------
+Temperature: 30.94 °C
+Humidity: 54.55 %
+---------------------------
+Temperature: 30.93 °C
+Humidity: 54.47 %
+---------------------------
+Temperature: 30.88 °C
+Humidity: 54.50 %
+---------------------------
+Temperature: 30.89 °C
+Humidity: 54.59 %
+---------------------------
+Temperature: 30.87 °C
+Humidity: 54.65 %
+---------------------------
+Temperature: 30.83 °C
+Humidity: 54.47 %
+---------------------------
+Temperature: 30.79 °C
+Humidity: 54.38 %
+---------------------------
+Temperature: 30.77 °C
+Humidity: 54.40 %
+---------------------------
+Temperature: 30.76 °C
+Humidity: 54.61 %
+---------------------------
+Temperature: 30.79 °C
+Humidity: 55.06 %
+---------------------------
+Temperature: 30.81 °C
+Humidity: 55.15 %
+---------------------------
+Temperature: 30.80 °C
+Humidity: 55.39 %
+---------------------------
+Temperature: 30.80 °C
+Humidity: 55.63 %
+---------------------------
+Temperature: 30.79 °C
+Humidity: 55.81 %
+---------------------------
+Temperature: 30.79 °C
+Humidity: 55.92 %
+---------------------------
+Temperature: 30.75 °C
+Humidity: 55.90 %
+---------------------------
+Temperature: 30.74 °C
+Humidity: 55.91 %
+---------------------------
+Temperature: 30.72 °C
+Humidity: 55.92 %
+---------------------------
+Temperature: 30.64 °C
+Humidity: 55.67 %
+---------------------------
+Temperature: 30.55 °C
+Humidity: 55.41 %
+---------------------------
+Temperature: 30.45 °C
+Humidity: 55.24 %
+---------------------------
+Temperature: 30.37 °C
+Humidity: 55.20 %
+---------------------------
+Temperature: 30.40 °C
+Humidity: 55.25 %
+---------------------------
+Temperature: 30.38 °C
+Humidity: 55.25 %
+---------------------------
+Temperature: 30.39 °C
+Humidity: 55.32 %
+---------------------------
+Temperature: 30.37 °C
+Humidity: 55.28 %
+---------------------------
+Temperature: 30.37 °C
+Humidity: 55.30 %
+---------------------------
+Temperature: 30.37 °C
+Humidity: 55.33 %
+---------------------------
+Temperature: 30.37 °C
+Humidity: 55.43 %
+---------------------------
+Temperature: 30.38 °C
+Humidity: 55.45 %
+---------------------------
+Temperature: 30.36 °C
+Humidity: 55.42 %
+---------------------------
+Temperature: 30.34 °C
+Humidity: 55.41 %
+---------------------------
+Temperature: 30.32 °C
+Humidity: 55.29 %
+---------------------------
+Temperature: 30.29 °C
+Humidity: 55.21 %
+---------------------------
+Temperature: 30.28 °C
+Humidity: 55.28 %
+---------------------------
+Temperature: 30.29 °C
+Humidity: 55.38 %
+---------------------------
+Temperature: 30.29 °C
+Humidity: 55.49 %
+---------------------------
+Temperature: 30.31 °C
+Humidity: 55.59 %
+---------------------------
+Temperature: 30.29 °C
+Humidity: 55.52 %
+---------------------------
+Temperature: 30.27 °C
+Humidity: 55.50 %
+---------------------------
+Temperature: 30.27 °C
+Humidity: 55.45 %
+---------------------------
+Temperature: 30.22 °C
+Humidity: 55.42 %
+---------------------------
+Temperature: 30.12 °C
+Humidity: 55.31 %
+---------------------------
+Temperature: 29.97 °C
+Humidity: 55.18 %
+---------------------------
+Temperature: 29.91 °C
+Humidity: 55.14 %
+---------------------------
+Temperature: 29.90 °C
+Humidity: 55.21 %
+---------------------------
+Temperature: 29.89 °C
+Humidity: 55.26 %
+---------------------------
+Temperature: 29.88 °C
+Humidity: 55.24 %
+---------------------------
+Temperature: 29.84 °C
+Humidity: 55.31 %
+---------------------------
+Temperature: 29.76 °C
+Humidity: 55.46 %
+---------------------------
+Temperature: 29.70 °C
+Humidity: 55.43 %
+---------------------------
+Temperature: 29.65 °C
+Humidity: 55.54 %
+---------------------------
+Temperature: 29.63 °C
+Humidity: 55.58 %
+---------------------------
+Temperature: 29.63 °C
+Humidity: 55.64 %
+---------------------------
+Temperature: 29.63 °C
+Humidity: 55.73 %
+---------------------------
+Temperature: 29.58 °C
+Humidity: 55.76 %
+---------------------------
+Temperature: 29.55 °C
+Humidity: 55.80 %
+---------------------------
+Temperature: 29.57 °C
+Humidity: 55.86 %
+---------------------------
+Temperature: 29.59 °C
+Humidity: 56.00 %
+---------------------------
+Temperature: 29.60 °C
+Humidity: 56.09 %
+---------------------------
+Temperature: 29.61 °C
+Humidity: 56.19 %
+---------------------------
+Temperature: 29.63 °C
+Humidity: 56.33 %
+---------------------------
+Temperature: 29.66 °C
+Humidity: 56.48 %
+---------------------------
+Temperature: 29.72 °C
+Humidity: 56.71 %
+---------------------------
+Temperature: 29.72 °C
+Humidity: 56.81 %
+---------------------------
+Temperature: 29.73 °C
+Humidity: 56.87 %
+---------------------------
+Temperature: 29.73 °C
+Humidity: 56.95 %
+---------------------------
+Temperature: 29.77 °C
+Humidity: 56.99 %
+---------------------------
+Temperature: 29.77 °C
+Humidity: 56.95 %
+---------------------------
+Temperature: 29.76 °C
+Humidity: 56.97 %
+---------------------------
+Temperature: 29.78 °C
+Humidity: 57.18 %
+---------------------------
+Temperature: 29.79 °C
+Humidity: 57.31 %
+---------------------------
+Temperature: 29.79 °C
+Humidity: 57.53 %
+---------------------------
+Temperature: 29.80 °C
+Humidity: 57.54 %
+---------------------------
+Temperature: 29.81 °C
+Humidity: 57.67 %
+---------------------------
+Temperature: 29.79 °C
+Humidity: 57.46 %
+---------------------------
+Temperature: 29.80 °C
+Humidity: 57.46 %
+---------------------------
+Temperature: 29.81 °C
+Humidity: 57.32 %
+---------------------------
+Temperature: 29.78 °C
+Humidity: 57.09 %
+---------------------------
+Temperature: 29.70 °C
+Humidity: 56.95 %
+---------------------------
+Temperature: 29.64 °C
+Humidity: 56.85 %
+---------------------------
+Temperature: 29.55 °C
+Humidity: 56.72 %
+---------------------------
+Temperature: 29.50 °C
+Humidity: 56.58 %
+---------------------------
+Temperature: 29.51 °C
+Humidity: 56.59 %
+---------------------------
+Temperature: 29.51 °C
+Humidity: 56.58 %
+---------------------------
+Temperature: 29.47 °C
+Humidity: 56.52 %
+---------------------------
+Temperature: 29.43 °C
+Humidity: 56.48 %
+---------------------------
+Temperature: 29.40 °C
+Humidity: 56.40 %
+---------------------------
+Temperature: 29.41 °C
+Humidity: 56.71 %
+---------------------------
+Temperature: 29.45 °C
+Humidity: 56.97 %
+---------------------------
+Temperature: 29.45 °C
+Humidity: 57.04 %
+---------------------------
+Temperature: 29.46 °C
+Humidity: 57.09 %
+---------------------------
+Temperature: 29.46 °C
+Humidity: 57.12 %
+---------------------------
+Temperature: 29.49 °C
+Humidity: 57.41 %
+---------------------------
+Temperature: 29.54 °C
+Humidity: 57.52 %
+---------------------------
+Temperature: 29.53 °C
+Humidity: 57.47 %
+---------------------------
+Temperature: 29.53 °C
+Humidity: 57.64 %
+---------------------------
+Temperature: 29.53 °C
+Humidity: 57.56 %
+---------------------------
+Temperature: 29.54 °C
+Humidity: 57.59 %
+---------------------------
+Temperature: 29.57 °C
+Humidity: 57.69 %
+---------------------------
+Temperature: 29.59 °C
+Humidity: 57.75 %
+---------------------------
+Temperature: 29.61 °C
+Humidity: 57.71 %
+---------------------------
+Temperature: 29.62 °C
+Humidity: 57.71 %
+---------------------------
+Temperature: 29.62 °C
+Humidity: 57.59 %
+---------------------------
+Temperature: 29.64 °C
+Humidity: 57.57 %
+---------------------------
+Temperature: 29.66 °C
+Humidity: 57.66 %
+---------------------------
+Temperature: 29.69 °C
+Humidity: 57.56 %
+---------------------------
+Temperature: 29.68 °C
+Humidity: 57.46 %
+---------------------------
+Temperature: 29.67 °C
+Humidity: 57.29 %
+---------------------------
+Temperature: 29.61 °C
+Humidity: 57.01 %
+---------------------------
+Temperature: 29.56 °C
+Humidity: 56.86 %
+---------------------------
+Temperature: 29.55 °C
+Humidity: 56.79 %
+---------------------------
+Temperature: 29.54 °C
+Humidity: 56.77 %
+---------------------------
+Temperature: 29.52 °C
+Humidity: 56.65 %
+---------------------------
+Temperature: 29.54 °C
+Humidity: 56.74 %
+---------------------------
+Temperature: 29.58 °C
+Humidity: 57.02 %
+---------------------------
